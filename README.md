@@ -16,6 +16,7 @@
 - 구글드라이브 경로 : https://drive.google.com/drive/folders/1fJaHxRl5LvRfMz3OuN2rRkzMdOAvp_MB?usp=sharing
 <br>
 <br>
-👉🏻기한 내에 제출한 기록(commit 시점) 증명이 필요한 경우, 레포지토리 : `AbstractiveSummarization_KoBART_origin` 에서 확인 부탁드립니다.
+👉🏻 기한 내에 제출한 기록(commit 시점) 증명이 필요한 경우, 레포지토리 : `AbstractiveSummarization_KoBART_origin` 에서 확인 부탁드립니다.
+
 - 기업과제4_1팀.ipynb
 - 기업과제4_1팀_sports_news_data.csv
