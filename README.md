@@ -7,3 +7,8 @@
 ## 2. module_py
 프로젝트 기간 이후, 개인적으로 프로젝트를 `모듈화(.py)`하여 발전시켜봤습니다.
 모듈화된 결과물 확인을 원하실 경우, `AbstractiveSummarization_KoBART > module_py` 경로에서 확인 부탁드립니다.
+
+
+**기한 내에 제출한 기록(commit 시점) 증명이 필요한 경우, 레포지토리 : `AbstractiveSummarization_KoBART_origin` 에서 확인 부탁드립니다.**
+- 기업과제4_1팀.ipynb
+- 기업과제4_1팀_sports_news_data.csv
